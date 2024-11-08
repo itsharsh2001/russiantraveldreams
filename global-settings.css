@@ -167,8 +167,10 @@ p{
   font-size: 16px;
   text-align: center;
   text-transform: capitalize;
-  background: #ff5522;
-  border: 2px solid #ff5522;
+  /* background: #ff5522; */
+  background: #EC678A;
+  /* border: 2px solid #ff5522; */
+  border: 2px solid #EC678A;
   border-radius: 5px;
   -moz-transition:all 0.3s ease;
   -webkit-transition:all 0.3s ease;
@@ -202,9 +204,11 @@ p{
 }
 
 .btn-style-one:hover{
-  color: #ff5522;
+  /* color: #ff5522; */
+  color: #EC678A;
   background: none;
-  border-color: #ff5522;
+  /* border-color: #ff5522; */
+  border-color: #EC678A;
 }
 
 .btn-style-two{

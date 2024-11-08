@@ -4,10 +4,14 @@
 	--primary-color:#4654A4; 
 	/* --secondary-color: #ffb400; */
 	--secondary-color:#EC678A;
-	--tertiary-color: #4a6660;
-	--light-purple-color: #a3adcc;
-	--blue-color: #2275ff;
-	--red-color: #fe455f;
+	/* --tertiary-color: #4a6660; */
+	--tertiary-color:#4654A4;
+	/* --light-purple-color: #a3adcc; */
+	--light-purple-color: #4654A4;
+	/* --blue-color: #2275ff; */
+	--blue-color: #4654A4;
+	/* --red-color: #fe455f; */
+	--red-color: #EC678A;
 	--yellow-color: #faba2f;
 	--green-color: #51d77a;
 	--very-dark-gray-color: #252525;
